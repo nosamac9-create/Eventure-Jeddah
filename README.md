@@ -35,3 +35,11 @@ This repository includes:
 - Abrar Alharbi
 
 Software Engineering Students at the University of Jeddah
+
+## License
+
+This project documentation is licensed under
+[Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)](LICENSE).
+
+You may share and adapt the materials for academic and non-commercial purposes,
+with appropriate credit to the authors.
